@@ -12,3 +12,5 @@ Imagens de exemplo:
 <img width="859" height="467" alt="image" src="https://github.com/user-attachments/assets/46f982a5-3f28-4853-a88e-ea3301bbb5b9" />
 <img width="1161" height="661" alt="image" src="https://github.com/user-attachments/assets/2b5fb8dd-0f67-47f4-9227-fd71368e973e" />
 
+Link Uteis:
+https://mysticcrow-wlr.github.io/Secretaria-Semi-megazord/
